@@ -1,0 +1,10 @@
+{
+  "name": "@n1ru4l/spotify-player-android-sdk",
+  "version": "24.0.0",
+  "author": "Laurin Quast <laurinquast@googlemail.com>",
+  "license": "MIT",
+  "files": ["dist", "README.md", "LICENSE"],
+  "scripts": {
+    "build": "./build-maven-repository.sh"
+  }
+}
