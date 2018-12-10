@@ -12,11 +12,9 @@ There is currently no official spotify-android-sdk distribution avaiable via mav
 
 1. add `@n1ru4l/spotify-player-android-sdk` to the `dependencies` of your project
 
-e.g. `yarn add -D -E @n1ru4l/spotify-player-android-sdk`
+`yarn add -D -E @n1ru4l/spotify-player-android-sdk`
 
 2. Modify your `build.gradle` file to add a new local maven repository
-
-e.g.
 
 ```diff
 allprojects {
@@ -40,4 +38,4 @@ dependencies {
 
 ## Additional
 
-The dirstributed binary and all rights associated with it belong to spotify. 
+The distributed binary and all rights associated with it belong to spotify. 
